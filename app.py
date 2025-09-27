@@ -11,7 +11,7 @@ import psycopg2
 import mysql.connector
 from langchain_groq import ChatGroq
 import urllib.parse
-
+# Main app.py file
 # Streamlit Page Setup
 st.set_page_config(page_title="LangChain: Chat with SQL DB", page_icon="🦜")
 st.title("🦜 LangChain: Chat with SQL DB")

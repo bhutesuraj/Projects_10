@@ -6,3 +6,4 @@ pandas
 langchain-groq
 mysql-connector-python
 SQLAlchemy
+numpy

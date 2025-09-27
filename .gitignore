@@ -1,0 +1,9 @@
+# Python Virtual environments
+__pycache__/
+venv/
+.env/
+.env.*
+env/
+
+# SQLite database files
+student.db

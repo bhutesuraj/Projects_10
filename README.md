@@ -89,3 +89,6 @@ All contributions are welcome!
 💬 **Questions?** Open an issue or reach out!  
 
 ---
+
+# Projects_10
+It is the latest GenAI projects
