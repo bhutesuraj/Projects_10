@@ -16,7 +16,7 @@
 ## **Installation**
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/ravirch/Query-Databases-with-AI.git
+git clone https://github.com/bhutesuraj/Projects_10.git
 cd langchain-sql-chatbot
 ```
 
@@ -82,10 +82,4 @@ All contributions are welcome!
 ## **License**
 🚨 **No license yet!** This project is open-source but doesn't have a license. Feel free to use and modify it, but it's recommended to add a license if needed.  
 
----
 
-### **⭐ Star this Repo if You Like It!**
-🔗 **GitHub Repo:** _[https://github.com/ravirch/Query-Databases-with-AI](https://github.com/ravirch/Query-Databases-with-AI)_  
-💬 **Questions?** Open an issue or reach out!  
-
----
